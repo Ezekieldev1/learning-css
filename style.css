@@ -1,0 +1,27 @@
+.first-title {
+  color: darkblue;
+}
+
+#youtube-link {
+  color: red;
+}
+
+* {
+  font-size: 20px;
+}
+
+.random h1 {
+  color: cornflowerblue;
+}
+
+.my-list + ul {
+  list-style: none;
+}
+
+h1 {
+  color: aqua;
+}
+
+.nav-link li {
+  color: darkred;
+}
